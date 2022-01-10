@@ -3,11 +3,12 @@
 The Fortune Cookie is built using the following technologies:
 
 The project was built using React.js
+
 Tailwind is used for CSS styling
 
 ## Setup
 First install dependencies by running:
-npm install
+## npm install
 
 ## To run the project `npm start`
 
